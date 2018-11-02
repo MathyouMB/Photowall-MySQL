@@ -14,3 +14,9 @@ The insert-data.php is a basic form that lets you add a new entry in the db.
 
 The template displays the 12 most recent photos added to the database. When you add a new photo, all previous ones move over.
 
+<video width="480" height="320" controls="controls">
+<source src="https://i.gyazo.com/6ca33d3b915fc497abcd12392176fb41.mp4" type="video/mp4">
+</video>
+
+
+
